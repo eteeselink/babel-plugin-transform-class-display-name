@@ -1,10 +1,10 @@
 {
   "name": "babel-plugin-transform-class-display-name",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Add displayName to ES6 classes",
   "repository": "eteeselink/babel-plugin-transform-class-display-name",
   "license": "MIT",
-  "main": "lib/index.js",
+  "main": "dist/index.js",
   "devDependencies": {
     "babel-cli": "^6.3.17",
     "babel-core": "^6.3.21",
